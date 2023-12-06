@@ -1,5 +1,5 @@
 import { Badge, Box, Flex, HStack, Text } from "@chakra-ui/react";
-import { usePropertyFormat } from "../../Hooks/usePropertyFormat";
+import { usePropertiesFormat } from "../../Hooks/usePropertiesFormat";
 import { TbBed, TbBath, TbRuler } from "react-icons/tb";
 import Link from "next/link";
 
@@ -15,7 +15,7 @@ const PropertyCard = (property) => {
     purpose,
     sqSize,
     externalID
-  } = usePropertyFormat(property);
+  } = usePropertiesFormat(property);
 
   return (
     <Box marginBottom="4rem" backgroundColor="#fff">
