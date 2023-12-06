@@ -23,7 +23,7 @@ export const usePropertyFormat = (property) => {
 
   const amenities = property.amenities
     ?.flatMap(({ amenities }) => amenities)
-    .map((item) => "");
+    .map((item) => item.text || "");
 
   const furshied = property.furnishingStatus;
 
