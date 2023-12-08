@@ -1,4 +1,4 @@
-# Real Estate: Modern UAE Real Estate Website (Casaz)
+# Modern UAE Real Estate Website (Casaz)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -112,4 +112,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
 ---
 
-Feel free to adapt this template to your specific needs, and make sure to replace `[YOUR_API_KEY]` with your actual API key in the `.env` file.
+Feel free to customize, and make sure to replace `[YOUR_API_KEY]` with your actual API key in the `.env` file.

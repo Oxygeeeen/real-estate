@@ -1,3 +1,4 @@
+import Head from "next/head";
 import ContactForm from "@/features/common/modules/ContactForm";
 import TextContentBox from "@/features/common/modules/TextContentBox";
 import DefaultLayout from "@/features/Layouts/DefaultLayout";
@@ -5,6 +6,10 @@ import { Box, Grid, GridItem, Text } from "@chakra-ui/react";
 
 const ContactPage = () => {
   return (
+    <>
+    <Head>
+        <title>Casaz: Modern UAE Property Portal | Homes Live Here</title>
+      </Head>
     <DefaultLayout>
       <Box backgroundColor="#f7f8f9" paddingY="3rem">
         <Grid
@@ -43,6 +48,7 @@ const ContactPage = () => {
         </Grid>
       </Box>
     </DefaultLayout>
+    </>
   );
 };
 

@@ -5,7 +5,7 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Casaz</title>
+        <title>Casaz: Modern UAE Property Portal</title>
       </Head>
       <ChakraProvider>
         <Component {...pageProps} />
