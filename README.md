@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Casaz is a state-of-the-art Real Estate website focused on providing a seamless and delightful experience for users exploring properties in the UAE. Built with cutting-edge technologies like Next.js, React.js, Chakra-UI, SSG (Static Site Generation), SSR (Server-Side Rendering), and powered by the Rapid API, Casaz is designed to redefine how users interact with real estate listings.
+Casaz is a state-of-the-art Real Estate website focused on providing a seamless and delightful experience for users exploring properties in the UAE. Built with cutting-edge technologies like Next.js, React.js, Chakra-UI, SSG (Static Site Generation), SSR (Server-Side Rendering), and powered by the Rapid API, This UAE based Real Estate site is designed to redefine how users interact with real estate listings.
 
 ## Table of Contents
 
@@ -25,11 +25,11 @@ Casaz is a state-of-the-art Real Estate website focused on providing a seamless 
 
 - **Chakra-UI:** The UI is designed using Chakra-UI, a simple, modular, and accessible component library for React.
 
-- **Rapid API Integration:** Casaz leverages Rapid API for fetching real-time data, ensuring accurate and up-to-date property information.
+- **Rapid API Integration:** It leverages Rapid API for fetching real-time data, ensuring accurate and up-to-date property information.
 
 ## Getting Started
 
-To get started with Casaz, follow these steps:
+To get started, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
